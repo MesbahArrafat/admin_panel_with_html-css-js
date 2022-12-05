@@ -1,5 +1,5 @@
 # admin_panel_with_html-css-js
-1.Installation Guideline
+1.Installation Guideline<br>
 2.change .env.example file to .env (cp .env.example .env)
 3.create a database & setup db connection in .env.
 4.Run composer install
