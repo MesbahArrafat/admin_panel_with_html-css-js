@@ -1,4 +1,3 @@
-# admin_panel_with_html-css-js
 # Installation Guideline<br>
 1.change .env.example file to .env (cp .env.example .env)<br>
 2.create a database & setup db connection in .env.<br>
